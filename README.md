@@ -9,4 +9,5 @@ NeoBreaker is a research/educational tool for exploring the Neo exam shield. Use
 
 A perfect user manual won't exist for cracks like this — you'll find your own way. Don't use it for academic exams; don't spoil your future.
 
-If you need changes or a stricter warning added, tell me what to update.
+get ur gemini api key and paste in the code and then just copy cmd shift i or ctrl shift i ..
+answers automatically saved to ur clipboard just wait 10 seconds..
